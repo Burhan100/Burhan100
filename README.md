@@ -30,4 +30,4 @@ README.md
 Burhan100/Burhan100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
->>>>>>> f828bc4143bf998d2482b66c57d5db1df844c441
+![image alt](https://github.com/Burhan100/Burhan100/blob/80867fd5a73586a5d1013f5ca06158fa8549115c/1334857.png)
