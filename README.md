@@ -1,33 +1,78 @@
 README.md
-<<<<<<< HEAD
-
-# BURHAN
-## ASGHAR
-### HEADING 3
-#### HEADING4
-##### HEADIGN 5
-###### HEADING 6
-
-- BURHAN
-- BURHAN    
-   > BURHAN
-   > 
-   >ASGHAR
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 
-   *BURHAN*
+# Block of Code
+> First line code
+>
+> Second Line Code 
 
-   ***BURHAN***
+# Bold and Italic
 
-   _BURHAN_
+**Text1** 
 
-   **BURHAN**
+__Text1__
 
- 
-=======
-![image alt](https://github.com/Burhan100/Burhan100/blob/949414edad02d3bfa059a8da590c1275bfae1aa0/download%202222.jpg)
-<!---
-Burhan100/Burhan100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![image alt](https://github.com/Burhan100/Burhan100/blob/80867fd5a73586a5d1013f5ca06158fa8549115c/1334857.png)
+*Text2*
+
+***Text3***
+
+# Bullet points / List
+
+- List1
+- List2
+- List3
+  - option 3.1
+  - option 3.2
+    - option 3.2.1
+
+# Numbering List
+1. Lsit1
+2. List2
+3. List3
+    1. List3.1
+
+# Line and Page Break
+
+____
+****
+
+# Link and HyperLink
+
+<https://www.google.com/>
+
+[Google.com](https://www.google.com/)
+
+# Content
+
+[Bullet List](#bullet-points--list)
+
+[Heading 1](#heading-1)
+
+# Link Code and Code Block
+
+`pip install python`
+
+```
+pip install pandas
+pip install numpy
+```
+
+# Table
+
+| Name       | Age | City         |
+|------------|:-----:|--------------|
+| Alice      | 30  | New York     |
+| Bob        | 25  | Los Angeles  |
+| Charlie    | 35  | Chicago      |
+
+
+# how to save it see it properly
+## first you save that file by pressing ctrl+s
+## when you click ctrl+s  the files saves in local repositry
+## close the visual studio and github desktop and select changes all and push to origin see it carefully
