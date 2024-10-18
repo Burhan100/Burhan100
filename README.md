@@ -75,4 +75,5 @@ pip install numpy
 # how to save it see it properly
 ## first you save that file by pressing ctrl+s
 ## when you click ctrl+s  the files saves in local repositry
-## close the visual studio and github desktop and select changes all and push to origin see it carefully
+## close the visual studio and github desktop and select changes all
+## and push to origin see it carefully
