@@ -87,3 +87,5 @@ pip install numpy
 
 ![image alt](https://github.com/Burhan100/Burhan100/blob/58ef95036a2d18786666d4c9272c1f3a645468e0/download%202222.jpg)
 
+![image alt](https://github.com/Burhan100/Burhan100/blob/5956fb0fade168e1e113bbf58c4b0ab7c2d7d34c/superior.png)
+
